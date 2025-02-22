@@ -21,4 +21,4 @@ To run the calculator locally, follow these steps:
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/calculator.git
+   https://github.com/DDDDprog/Calculator.git
