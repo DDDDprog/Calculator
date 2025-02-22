@@ -24,3 +24,8 @@ To run the calculator locally, follow these steps:
 1. Clone this repository to your local machine:
    ```bash
    https://github.com/DDDDprog/Calculator.git
+2. ```bash
+    npm install
+3. ```bash
+    npm run dev   
+   
