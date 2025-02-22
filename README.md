@@ -1,6 +1,6 @@
 # Calculator
 
-A simple calculator application built using JavaScript, HTML, and CSS. This project allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division. The interface is clean, responsive, and easy to use.
+A simple calculator application built with **Next.js**, **React**, **CSS**, and **JavaScript**. This project allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division. The application is responsive and user-friendly.
 
 ## Features
 
@@ -8,12 +8,14 @@ A simple calculator application built using JavaScript, HTML, and CSS. This proj
 - Clear and easy-to-use user interface.
 - Supports both integer and decimal calculations.
 - Error handling for division by zero and invalid input.
+- Built with Next.js for server-side rendering and fast page load times.
 
 ## Technologies Used
 
-- **HTML**: Used for structuring the user interface.
-- **CSS**: Used for styling the application and making it responsive.
-- **JavaScript**: Used for implementing the calculator's logic and functionality.
+- **Next.js**: A React framework for building server-side rendered applications.
+- **React**: JavaScript library for building user interfaces.
+- **CSS**: Styling for the user interface and layout.
+- **JavaScript**: For implementing calculator logic and functionality.
 
 ## Installation
 
